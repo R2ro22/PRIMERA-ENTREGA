@@ -1,0 +1,2 @@
+ON_LINE = 'ON LINE ✅'
+OFF_LINE = 'OFF LINE ❌'
